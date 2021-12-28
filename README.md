@@ -1,5 +1,5 @@
 # Github Explorer
-## First project of the track of [ReactJS](https://pt-br.reactjs.org/) by Ignite / [Rocketseat](https://github.com/Rocketseat). The project's purpose is to use the Github API to list the repositories.
+## First project of the track of [ReactJS](https://github.com/jotaEmeCortat/Ignite-React) by Ignite / [Rocketseat](https://github.com/Rocketseat). The project's purpose is to use the Github API to list the repositories.
 
 &nbsp;
 ## :camera: Layout
