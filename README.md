@@ -5,7 +5,7 @@
 ## :camera: Layout
 
 <div>
-   <img src="" width="400px" />
+   <img src="https://github.com/jotaEmeCortat/github_explorer/blob/main/assets/Github-Explorer.png" width="400px" />
 </div>
 
 &nbsp;
